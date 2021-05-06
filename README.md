@@ -1,5 +1,8 @@
 # thor
 A DDOS attack tool for termux
+
+<a href="https://ibb.co/jkdNp8Y"><img src="https://i.ibb.co/YB6CrNS/thor.jpg" alt="thor" border="0"></a>
+
 ## ABOUT TOOL :
 
 Thor tool is a python based script from which you can use the of Service (DDos) attack is an attempt to make an online service unavailable by overwhelming it with traffic from multiple sources. They target a wide variety of important resources from banks to news websites, and present a major challenge to making sure people can publish and access important information
