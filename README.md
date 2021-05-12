@@ -1,7 +1,7 @@
 # thor
 A DDOS attack tool for termux
 
-<a href="https://ibb.co/jkdNp8Y"><img src="https://i.ibb.co/YB6CrNS/thor.jpg" alt="thor" border="0"></a>
+<img src="https://i.ibb.co/YB6CrNS/thor.jpg" alt="thor" border="0">
 
 ## ABOUT TOOL :
 
